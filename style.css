@@ -1,0 +1,106 @@
+body {
+    margin: 0px;
+}
+header img{
+    background-color: rgb(32, 32, 54);
+    padding-right: 1160px;
+    padding-left: 20px;
+}
+header nav p {
+    background-color: rgb(50, 50, 97);
+    margin: 0px;
+    padding-left: 20px;  
+    word-spacing: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 12px;
+}
+header nav p a {
+    color: white;
+    text-decoration: none;
+    word-spacing: 1px;
+}
+main {
+    text-align: center;
+    margin: 0px;
+    background-color: rgb(219, 219, 219);
+}
+#shop {
+    background-color: orangered;
+    font-size: 11px;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 20px;
+}
+main section div {
+    background-color: rgb(11, 85, 65);
+    color: white;
+    background-image: url(bg-image.png);
+    padding-top: 30px;
+    padding-bottom: 25px;
+    margin: 20px;
+    background-repeat: repeat;
+}
+main section div h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+main section div p {
+    font-size: 13px;
+    padding-top: 10px;
+}
+#img p a {
+    text-decoration: none;
+    font-size: 12px;
+}
+#img {
+    background-color: rgb(255, 254, 254);
+    padding: 15px;
+    border-color: 1px white;
+    margin: 22px;
+    outline-style: hidden;
+    text-align: left;
+}
+#img img {
+    border-radius: 20px;
+    margin: 14px;
+    box-shadow: 5px 5px 20px rgb(190, 188, 188);
+}
+#primo {
+    padding: 0px 20px 0px 20px;
+}
+#primo p a {
+    text-decoration: none;
+    font-size: 12px;
+}
+#secondo{
+    padding: 20px;
+}
+#secondo p a {
+    text-decoration: none;
+    font-size: 12px;
+}
+footer {
+    text-align: center;
+}
+footer p {
+    background-color: rgb(50, 50, 97);
+    margin: 0px;
+    padding-left: 590px;
+    padding-right: 590px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer p a {
+    color: white;
+    font-size: 11px;
+}
+footer img {
+    background-color: rgb(32, 32, 54);
+    padding-left: 590px;
+    padding-right: 590px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
